@@ -1,7 +1,7 @@
 <h1 align="center">FontMate - Blender Add-On</h1>
 
 <p align="center">
-  <img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/79453fe9-0f78-4e17-8e66-8d09493f294f">
+  <img src="...">
 </p>
 
 <p align="center">
@@ -45,8 +45,3 @@ Additionally, FontMate includes a search function that spans all directories, fu
 4. If "Custom" is selected, provide the path to the custom font directory.
 5. Use the dropdown menu under "Font" to select the desired font.
 6. Optionally, use the search functionality to find fonts quickly.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
