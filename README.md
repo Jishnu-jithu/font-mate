@@ -1,7 +1,7 @@
 <h1 align="center">FontMate - Blender Add-On</h1>
 
 <p align="center">
-  <img src="...">
+  <img src="https://github.com/Jishnu-jithu/font-mate/assets/145359279/17e591ee-4da9-4ad6-a541-faf07b543256">
 </p>
 
 <p align="center">
