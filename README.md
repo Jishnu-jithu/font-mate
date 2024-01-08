@@ -6,11 +6,7 @@
 
 <p align="center">
   <a href="https://www.blendermarket.com/products/render-palette">
-    <span style="display:inline-block;"><strong><u>Purchase Pro version - Blender Market</u></strong></span>
-  </a>
-•  
-  <a href="https://jishnukv.gumroad.com/l/font-mate?layout=profile">
-    <span style="display:inline-block;"><strong><u>Gumroad</u></strong></span>
+    <span style="display:inline-block;"><strong><u>Purchase Pro version from Blender Market</u></strong></span>
   </a>
 </p>
 
