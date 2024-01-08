@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.blendermarket.com/products/render-palette">
+  <a href="https://www.blendermarket.com/products/font-mate">
     <span style="display:inline-block;"><strong><u>Purchase Pro version from Blender Market</u></strong></span>
   </a>
 </p>
