@@ -4,10 +4,14 @@
   <img src="https://github.com/Jishnu-jithu/font-mate/assets/145359279/17e591ee-4da9-4ad6-a541-faf07b543256">
 </p>
 
+
 <p align="center">
-  <a href="https://www.blendermarket.com/products/font-mate">
-    <span style="display:inline-block;"><strong><u>Purchase Pro version from Blender Market</u></strong></span>
-  </a>
+  <kbd>
+    <br>
+    <a href="https://www.blendermarket.com/products/font-mate">Get it on BlenderMarket</a>
+    <br>
+    <br>
+  </kbd>
 </p>
 
 FontMate is a time-saving Blender addon designed for users who frequently work with text objects. It enhances the font selection process by offering a convenient dropdown menu to switch between Windows Fonts, User Fonts, and a custom directory. 
